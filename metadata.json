@@ -1,0 +1,6 @@
+{
+  "name": "HoopMetrics Pro - Evaluación de Rendimiento en Baloncesto",
+  "description": "Sistema de evaluación del rendimiento deportivo para basquetbolistas de 15 a 20 años mediante tests técnicos y baremos científicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
